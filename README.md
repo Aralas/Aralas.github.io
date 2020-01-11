@@ -1,2 +1,2 @@
-# tyleransom.github.io
-Repository for Tyler Ransom's academic research website.
+# Aralas.github.io
+Repository for Jingyi Xu's academic research website.
